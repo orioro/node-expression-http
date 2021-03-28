@@ -1,0 +1,1 @@
+- $http | Improve error handling (src/httpFetchExpression.ts)
